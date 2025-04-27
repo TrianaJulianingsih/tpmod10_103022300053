@@ -27,10 +27,11 @@ D:\KONSTRUKSI\tpmodul10_103022300053\obj\Debug\net8.0\staticwebassets\msbuild.bu
 D:\KONSTRUKSI\tpmodul10_103022300053\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.tpmodul10_103022300053.props
 D:\KONSTRUKSI\tpmodul10_103022300053\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.tpmodul10_103022300053.props
 D:\KONSTRUKSI\tpmodul10_103022300053\obj\Debug\net8.0\staticwebassets.pack.json
-D:\KONSTRUKSI\tpmodul10_103022300053\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\KONSTRUKSI\tpmodul10_103022300053\obj\Debug\net8.0\tpmodul1.2D59A2A5.Up2Date
 D:\KONSTRUKSI\tpmodul10_103022300053\obj\Debug\net8.0\tpmodul10_103022300053.dll
 D:\KONSTRUKSI\tpmodul10_103022300053\obj\Debug\net8.0\refint\tpmodul10_103022300053.dll
 D:\KONSTRUKSI\tpmodul10_103022300053\obj\Debug\net8.0\tpmodul10_103022300053.pdb
 D:\KONSTRUKSI\tpmodul10_103022300053\obj\Debug\net8.0\tpmodul10_103022300053.genruntimeconfig.cache
 D:\KONSTRUKSI\tpmodul10_103022300053\obj\Debug\net8.0\ref\tpmodul10_103022300053.dll
+D:\KONSTRUKSI\tpmodul10_103022300053\obj\Debug\net8.0\tpmodul10_103022300053.sourcelink.json
+D:\KONSTRUKSI\tpmodul10_103022300053\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
